@@ -1,3 +1,5 @@
+Programme permettant de construire et de parcourir un arbre binaire de recherche.
+
 Limites du programme:
 
 Le programme n'importe pas un arbre qui ne contient qu'une valeur (erreur de pointeur).
